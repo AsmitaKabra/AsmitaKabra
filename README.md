@@ -58,7 +58,16 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/asmita-kabra-1a6298342/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:asmita.kabra49@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/asmita-kabra-1a6298342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="mailto:asmita.kabra49@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
+  <a href="https://instagram.com/asmitakabra_49" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
