@@ -1,24 +1,36 @@
 <h1 align="center">Hi 👋, I'm Asmita</h1>
 
-<h3 align="center">Aspiring Machine Learning Engineer from India 🇮🇳</h3>
+<h3 align="center">Aspiring AI Engineer | Artificial Intelligence & Data Science Student 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Learner;Building+End-to-End+ML+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;Currently+Learning+TensorFlow;Building+End-to-End+ML+Projects;Exploring+AI+Engineering" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🔭 Currently building End-to-End ML Projects
+🔭 Currently building and improving **End-to-End Machine Learning Projects**
 
-🌱 Learning Machine Learning, Deep Learning & MLOps
+🌱 Currently learning **Deep Learning, TensorFlow & Neural Networks**
 
-💡 Interested in AI, Data Science, and Software Development
+🎯 Aspiring to become an **AI Engineer**
 
-💬 Ask me about Python, SQL, Pandas, NumPy & Scikit-learn
+💡 Interested in **Artificial Intelligence, Deep Learning, NLP & Generative AI**
 
-⚡ Fun Fact: I learn best by building projects from scratch.
+💬 Ask me about **Python, SQL, Pandas, NumPy, Scikit-learn & Machine Learning**
+
+⚡ Fun Fact: I learn best by **building projects and implementing concepts hands-on**.
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Learning-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-Exploring-2C3E50?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -39,6 +51,8 @@
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Feature%20Engineering-0A66C2?style=for-the-badge"/>
@@ -48,11 +62,11 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmitaKabra&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
@@ -70,4 +84,10 @@
   <a href="https://instagram.com/asmitakabra_49" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning. Building. Growing in AI.</i>
 </p>
